@@ -1,0 +1,38 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K1000M  (ID=0xffc)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.047 seconds
+desktop: 1600x900 50Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\System.Core.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1788)
+
+Platform assembly: E:\Work\JS- Unity\Pixelles\Hexplosions\Hexplosions_Win10_Data\Managed\System.dll (this message is harmless)
+Allies:1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Allies:1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Allies:1
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
